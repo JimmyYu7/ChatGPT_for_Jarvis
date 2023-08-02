@@ -31,7 +31,7 @@ python main.py
 
 The assistant will greet you with a welcome message. You can then start speaking to the assistant. If the assistant does not understand you, it will tell you so. You can terminate the conversation by saying "thank you for your help".
 
-Please note that you need to replace `"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"` with your actual OpenAI API key.
+Please note that you need to replace `"sk-XXXXXX"` with your actual OpenAI API key.
 
 ## Future Enhancements
 
