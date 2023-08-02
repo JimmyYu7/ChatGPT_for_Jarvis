@@ -7,7 +7,7 @@ import os
 from playsound import playsound
 
 # Set up the ChatGPT API client
-openai.api_key = "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"
+openai.api_key = "sk-*****"
 
 # Set up the text-to-speech engine
 engine = pyttsx3.init()
