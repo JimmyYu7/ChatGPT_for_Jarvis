@@ -68,7 +68,7 @@ def play_audio(filename):
     except Exception as e:
         print("Error: " + str(e))
 
-audio_path = "/Users/jian.yu/Documents/Jimmy_github/j2.mp4"
+audio_path = "/ChatGPT_for_Jarvis/src/j2.mp4"
 play_audio(audio_path)
 speak("Sir, Welcome home. How can I help you today?")
 
